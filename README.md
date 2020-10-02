@@ -4,7 +4,7 @@
 Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions from the security and developer communities.
  
 
-## Android
+## Android :
 
 ### General - Blogs, Papers, How To's
   
@@ -62,7 +62,7 @@ Maintained by [@vaib25vicky](https://twitter.com/vaib25vicky) with contributions
 * [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
 
   
-### Tools
+### Tools :
      
 #### Static Analysis
 
